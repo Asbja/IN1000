@@ -1,0 +1,6 @@
+1. Innkajpsling er nyttig fordi det sammenhengen mellom viktige data og operasjoner tydeligere 
+og skaper mer oversiklige og strukturerte programmer.
+
+2. Grensesnittet er en tekst som beskriver hva klassen skal gjøre mens implementasjonen er programmet som faktisk gjør det.
+
+3. Instansmetodene er prosedyrer eller funksjoner som har tilgang til alle instansvariablene til et objekt. 
